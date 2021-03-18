@@ -3,7 +3,7 @@ class SmallestIntegerFinder {
       return Math.min.apply(Math, args)
     }
   }
-  
+
 /*Description:
 Given an array of integers your solution should find the smallest integer.
 
