@@ -1,2 +1,2 @@
 # codewars
-A repository of codewars algorithm 
+A repository of codewars algorithm!
